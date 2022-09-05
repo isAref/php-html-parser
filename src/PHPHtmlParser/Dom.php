@@ -71,7 +71,7 @@ class Dom implements DomInterface
 
         $this->domParser = $domParser;
         $this->domCleaner = $domCleaner;
-    }
+    } 
 
     /**
      * Returns the inner html of the root node.
