@@ -23,7 +23,7 @@ use Psr\Http\Client\ClientExceptionInterface;
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestInterface;
 
-/**
+/** 
  * Class Dom.
  */
 class Dom implements DomInterface
